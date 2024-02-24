@@ -1,0 +1,69 @@
+.boomber{
+    font-size: 35px;
+    padding-left: 400px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+    background-image:url(../b32.jpg);
+}
+.boom{
+    font-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    color: chocolate;
+    display:block;
+
+}
+
+.O2{
+    font-size: 30px;
+    padding-left: 400px;
+    font-family: fantasy;
+    color:black;
+    text-decoration-line: overline underline;
+    text-decoration-color: darkmagenta;
+    background-image:url(../b32.jpg)
+}
+
+.container{
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left:1rem;
+    padding-right: 1rem;
+}
+
+.jX{
+    color:white;
+    font-size: 30px;
+    font-family:inherit;
+    font-style:inherit;
+    font-weight: bold;
+    background-image: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-image:url(../s1.jpg)
+}
+
+body{
+    background-size:cover;
+    background-repeat: no-repeat;
+    color:white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-image:url(../6ik.jpg)
+} 
+.mail{
+    font-size: 45px;
+    padding-left:775px;
+    margin-bottom: -35px;
+    color: red;
+}
+.instagram{
+    color:greenyellow;
+    font-weight: bold;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bold;
+    padding-left: 700px;
+    padding-bottom: 20px;   
+    
+}

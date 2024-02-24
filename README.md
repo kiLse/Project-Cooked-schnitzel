@@ -1,2 +1,2 @@
-# Project-Cooked-schnitzel
--CSS training on a html structure. basic skill-
+Just an easy cooking site.
+Odin project dev.
